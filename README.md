@@ -5,5 +5,5 @@
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/L1mynAj.png"/>
+  <img src="https://mhills.de/uploads/MwBdkBKW.png"/>
 </p>
