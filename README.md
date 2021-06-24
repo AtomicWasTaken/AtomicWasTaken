@@ -1,4 +1,4 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, folks! <img src="https://raw.githubusercontent.com/AtomicHXH/AtomicHXH/wave.gif" width="30px">
 
 <p align="center">
   <a href="https://github.com/atomichxh">
