@@ -12,8 +12,8 @@
 
 ```javascript
 const atomichxh = {
-  code: [Javascript,  HTML, CSS, C#, PHP],
-  tools: [VS_Code, VS_2019, Photoshop],
+  code: ["Javascript",  "HTML", "CSS", "C#", "PHP"],
+  tools: ["VS_Code", "VS_2019", "Photoshop"],
   project: "mhills.de"
 }
 ```
