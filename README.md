@@ -6,10 +6,6 @@
      </a>
 </p>
 
-<p align="center">
-  <img src="https://mhills.de/uploads/MwBdkBKW.png"/>
-</p>
-
 ```javascript
 const atomichxh = {
   code: ["Javascript", "HTML", "CSS", "C#", "PHP"],
