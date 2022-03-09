@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/atomicwastaken">
-    <img src="https://angel-host.xyz/dpb/947582139514380338/theme-2.png" alt="armfxl"/>
+    <img src="https://angel-host.xyz/dpb/947582139514380338/theme-1.png" alt="armfxl"/>
      </a>
 </p>
 
