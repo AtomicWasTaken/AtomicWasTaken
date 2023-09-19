@@ -1,15 +1,16 @@
-# Hello, Guys <img src="https://github.com/AtomicWasTaken/Atomic/blob/main/wave.gif" width="30px">
+### Hey there! 👋
 
-<p align="center">
-  <a href="https://github.com/atomicwastaken">
-     </a>
-</p>
+I'm a 16-year-old student based in Germany 🇩🇪, currently interning at Team neusta. My goal is to become a professional Software Developer.
 
-```javascript
-const atomic = {
-  code: ["Javascript", "HTML", "CSS", "C#", "PHP"],
-  tools: ["VS_Code", "VS_2019", "Photoshop", "PhpStorm"],
-  project: "ventry.host v²"
-}
-```
-  <!--[![trophy](https://github-profile-trophy.vercel.app/?username=AtomicWasTaken&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)-->
+🌟 My tech stack includes:
+
+- JavaScript, HTML, CSS
+- C#, PHP
+- Node.js, Symfony
+- PhpStorm, WebStorm, IntelliJ, VS Code, VS 2019
+
+🚀 I'm passionate about coding and always eager to learn and explore new technologies.
+
+🔗 Connect with me on GitHub to see my latest projects and contributions.
+
+Feel free to explore my repositories and let's code together! 💻
