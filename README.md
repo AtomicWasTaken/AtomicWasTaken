@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋</h1>
+<h1 align="center">Hey there! 👋</h1>
 
 <p align="center">
   I'm a 16-year-old student from Germany 🇩🇪, currently interning at Team neusta. My goal is to become a professional Software Developer.
@@ -24,6 +24,14 @@
 
 <p align="center">
   🔗 Connect with me on GitHub to see my latest projects and contributions.
+</p>
+
+<p align="center">
+  📊 Here's a glimpse of my GitHub stats:
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AtomicWasTaken&show_icons=true&count_private=true&theme=dark" alt="GitHub Stats">
 </p>
 
 <p align="center">
