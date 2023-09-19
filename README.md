@@ -1,16 +1,31 @@
-### Hey there! 👋
+<h1 align="center">Hi there! 👋</h1>
 
-I'm a 16-year-old student based in Germany 🇩🇪, currently interning at Team neusta. My goal is to become a professional Software Developer.
+<p align="center">
+  I'm a 16-year-old student from Germany 🇩🇪, currently interning at Team neusta. My goal is to become a professional Software Developer.
+</p>
 
-🌟 My tech stack includes:
+<p align="center">
+  🌟 My tech stack includes:
+</p>
 
-- JavaScript, HTML, CSS
-- C#, PHP
-- Node.js, Symfony
-- PhpStorm, WebStorm, IntelliJ, VS Code, VS 2019
+<p align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3">
+  <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white">
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/-Symfony-000000?style=flat-square&logo=symfony">
+</p>
 
-🚀 I'm passionate about coding and always eager to learn and explore new technologies.
+<p align="center">
+  🚀 I'm passionate about coding and always eager to learn and explore new technologies.
+</p>
 
-🔗 Connect with me on GitHub to see my latest projects and contributions.
+<p align="center">
+  🔗 Connect with me on GitHub to see my latest projects and contributions.
+</p>
 
-Feel free to explore my repositories and let's code together! 💻
+<p align="center">
+  Feel free to explore my repositories, and let's code together! 💻
+</p>
