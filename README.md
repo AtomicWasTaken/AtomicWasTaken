@@ -26,13 +26,14 @@
   🔗 Connect with me on GitHub to see my latest projects and contributions.
 </p>
 
+<!-- This is commented for now, because my stats on Github are trash. I use GitLab so yea, whatever.
 <p align="center">
   📊 Here's a glimpse of my GitHub stats:
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AtomicWasTaken&show_icons=true&count_private=true&theme=dark" alt="GitHub Stats">
-</p>
+</p>-->
 
 <p align="center">
   Feel free to explore my repositories, and let's code together! 💻
