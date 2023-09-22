@@ -36,5 +36,5 @@
 </p>-->
 
 <p align="center">
-  Feel free to explore my repositories, and let's code together! 💻
+  💻 Feel free to explore my repositories, and let's code together!
 </p>
