@@ -1,7 +1,7 @@
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=FFFFFF&width=435&lines=Hey+there!+%F0%9F%91%8B" alt="Typing SVG" /></a></h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hey+there!+%F0%9F%91%8B" alt="Typing SVG" /></a></h1>
 
 <p align="center">
-  I'm a 16-year-old student from Germany 🇩🇪, currently interning at Team neusta. My goal is to become a professional Software Developer.
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=1500&lines=I'm+a+16-year-old+student+from+Germany+%F0%9F%87%A9%F0%9F%87%AA%2C+currently+interning+at+Team+neusta.+My+goal+is+to+become+a+professional+Software+Developer." alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
