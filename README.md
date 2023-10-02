@@ -38,3 +38,11 @@
 <p align="center">
   💻 Feel free to explore my repositories, and let's code together!
 </p>
+
+<br>
+
+<p align="center">
+ 👀 My Profile view count
+ <br>
+ <img src="https://count.getloli.com/get/@AtomicWasTaken.github.readme">
+</p>
