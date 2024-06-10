@@ -1,48 +1,47 @@
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hey+there!+%F0%9F%91%8B" alt="Typing SVG" /></a></h1>
-
+<div style="padding:10px;">
+<h1 align="center">
+   <a href="https://git.io/typing-svg">
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hey+there!+%F0%9F%91%8B" alt="Typing SVG">
+   </a>
+</h1>
+<h2>🌍 About Me</h2>
+<p>Hi, I'm Jan-Marlon, but you can call me Jan. I started programming at 11, with my first language being C#. Since then, I've been passionate about software development. Now, I'm pursuing an apprenticeship as an IT specialist for application development.</p>
+<h2>💼 My Journey</h2>
+<ul>
+   <li><strong>Current Role:</strong> Intern at Team neusta.</li>
+   <li><strong>Focus:</strong> PHP and JavaScript.</li>
+   <li><strong>Experience:</strong> Developed projects like ventry.host, ShareUpload, and RestoreM.</li>
+</ul>
+<h2>🛠️ What I Do</h2>
+<ul>
+   <li><strong>Backend Development:</strong> Deep dive into PHP, from logic to database integration.</li>
+   <li><strong>Frontend Development:</strong> Creating responsive, interactive user interfaces.</li>
+   <li><strong>Projects:</strong> Working on various projects to enhance my skills and explore new technologies.</li>
+</ul>
+<h2>🌟 Featured Projects</h2>
+<ul>
+   <li><strong>ventry.host:</strong> A free file hosting solution with thousands of daily visitors.</li>
+   <li><strong>ShareUpload:</strong> Upload and share files with great speeds.</li>
+   <li><strong>RestoreM:</strong> Backup and restore your entire Discord server, including members, channels, and roles.</li>
+</ul>
 <p align="center">
- I'm a 16-year-old student from Germany, currently interning at Team neusta. My goal is to become a professional Software Developer.
+   🌟 <strong>My Tech Stack:</strong>
 </p>
-
 <p align="center">
-  🌟 My tech stack includes:
+   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3">
+   <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white">
+   <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white">
+   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
+   <img src="https://img.shields.io/badge/-Symfony-000000?style=flat-square&logo=symfony">
 </p>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3">
-  <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white">
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/-Symfony-000000?style=flat-square&logo=symfony">
+   <a href="https://github.com/AtomicWasTaken">
+   <img src="https://img.shields.io/github/followers/AtomicWasTaken?label=Follow&style=social">
+   </a>
 </p>
-
 <p align="center">
-  🚀 I'm passionate about coding and always eager to learn and explore new technologies.
+   🌐 Visit my <a href="https://jleibl.net"><strong>Website</strong></a> for more about me and my work.
 </p>
-
-<p align="center">
-  🔗 Connect with me on GitHub to see my latest projects and contributions.
-</p>
-
-<!-- This is commented for now, because my stats on Github are trash. I use GitLab so yea, whatever.
-<p align="center">
-  📊 Here's a glimpse of my GitHub stats:
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AtomicWasTaken&show_icons=true&count_private=true&theme=dark" alt="GitHub Stats">
-</p>-->
-
-<p align="center">
-  💻 Feel free to explore my repositories, and let's code together!
-</p>
-
-<br>
-
-<p align="center">
- 👀 My Profile view count
- <br>
- <img src="https://count.getloli.com/get/@AtomicWasTaken.github.readme">
-</p>
+</div>
