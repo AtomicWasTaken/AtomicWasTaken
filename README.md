@@ -8,7 +8,6 @@
 <p>Hi, I'm Jan-Marlon, but you can call me Jan. I started programming at 11, with my first language being C#. Since then, I've been passionate about software development. Now, I'm pursuing an apprenticeship as an IT specialist for application development.</p>
 <h2>💼 My Journey</h2>
 <ul>
-   <li><strong>Current Role:</strong> Intern at Team neusta.</li>
    <li><strong>Focus:</strong> PHP and JavaScript.</li>
    <li><strong>Experience:</strong> Developed projects like ventry.host, ShareUpload, and RestoreM.</li>
 </ul>
